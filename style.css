@@ -1,0 +1,57 @@
+*{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xhkK-LK2OZDaOBvh3DaCJib3M5hgSsADwQ&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(196, 35, 174);
+    position: bottom;
+    margin-top: 2%;
+}
+
+img{
+    margin-right:  60px;
+    margin-left:  30px;
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px white;
+    
+    
+}
+
+table{
+    margin-top: 100px;
+    margin: auto;
+    position: bottom;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-display: 75px;
+    margin-top: 0%;
+    width:50%;
+}
+
+h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:xx-large;
+    font-display: 75;
+    margin-top: 0%;
+}
+
+h2{
+    font-size:30px;
+    margin-top: 0%;
+}
+
+marquee{
+        margin-left:600px;
+        width:250px;
+        background-size:0px;
+}
+
